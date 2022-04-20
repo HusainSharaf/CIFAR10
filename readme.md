@@ -24,7 +24,7 @@
 <div align="center">
   <h3 align="center">CIFAR10</h3>
   <p align="center">
-    CIFAR10 implementation using keras in python
+    CIFAR10 implementation using keras in python Potato Code
   </p>
 </div>
 
